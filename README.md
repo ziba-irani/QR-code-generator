@@ -1,7 +1,7 @@
 # QR-code-generator
 **enjoy of my new mini Js project**
 
-![Screenshot (70)](https://github.com/ziba-irani/SassProject/assets/125620113/37087219-e0b2-4d18-b002-b5a2deaf4ea6)
+![qrcode](https://github.com/ziba-irani/QR-code-generator/assets/125620113/af8ef587-b90b-456f-befa-61470282f55a)
 
 - [Demo Project](https://ziba-irani.github.io/QR-code-generator/)
 

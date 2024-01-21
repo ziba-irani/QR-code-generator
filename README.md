@@ -3,11 +3,11 @@
 
 ![Screenshot (70)](https://github.com/ziba-irani/SassProject/assets/125620113/37087219-e0b2-4d18-b002-b5a2deaf4ea6)
 
-- [Demo Project](https://ziba-irani.github.io/SassProject/)
+- [Demo Project](https://ziba-irani.github.io/QR-code-generator/)
 
 - Developed by ziba irani
 
-- Technologies Used - Html , css , Sass
+- Technologies Used - Html , css , Js ,Api
 
 - Role - Frontend
 

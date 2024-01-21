@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #262a2f;
+}
+.container {
+  width: 400px;
+  padding: 25px 35px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  border-radius: 10px;
+}
+.container p {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 8px;
+  text-transform: capitalize;
+}
+.container > input {
+  width: 100%;
+  height: 40px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px 0px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-transform: capitalize;
+}
+
+.container img{
+    width: 150px;
+    height: 150px;
+    display: none;
+    margin: 20px auto;
+}
+#showUserText{
+  display: none;
+  font-size: 20px;
+  text-align: center;
+
+}
+.container button {
+  width: 100%;
+  height: 40px;
+  background: #494eea;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  margin: 10px 0;
+  font-weight: 500;
+  outline: none;
+}
+.error{
+  animation :shake 0.1s linear 10; 
+}
+@keyframes shake {
+  0%{
+    transform: translateX(0);
+  }
+  25%{
+    transform: translateX(-2px);
+  }
+  50%{
+    transform: translateX(0);
+  }
+  75%{
+    transform: translateX(2px);
+  }
+  100%{
+    transform: translateX(0);
+  }
+  
+}
